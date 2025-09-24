@@ -1,4 +1,4 @@
-# PoC Hardhat Complete Bundle
+# Proof of Contribution Consesus Mechanisms
 
 This bundle contains a full Hardhat skeleton for the Proof of Contribution (PoC) prototype with:
 - Snapshot-based proposer selection commit model (gas-optimal)
