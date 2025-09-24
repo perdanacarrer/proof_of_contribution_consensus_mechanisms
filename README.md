@@ -26,5 +26,3 @@ This bundle contains a full Hardhat skeleton for the Proof of Contribution (PoC)
 - oracle/attestor_server.js (example attestor signing service)
 - scripts/deploy.js
 - .github/workflows/ci.yml
-
-**Thank you for this opportunity.**
