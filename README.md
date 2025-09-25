@@ -6,6 +6,9 @@ This bundle contains a full Hardhat skeleton for the Proof of Contribution (PoC)
 - Tests that exercise attestation flow, staking, snapshot commit, and proposer selection
 - CI workflow that runs tests and slither (slither commands are included but Slither is not executed in this environment)
 
+## Purpose
+To those who belittled me and said I lacked specific blockchain experience, rejection without even knowing my capabilities is proof that they are insecure and toxic. Especially to those who suggest or appoint people to HEAD positions without a thorough assessment and know my ability better than them.
+
 ## Quickstart (local)
 1. Install Node 18+ and npm
 2. npm install
